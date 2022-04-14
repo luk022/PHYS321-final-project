@@ -1,0 +1,5 @@
+Kent Lu contributes to Abstract, Introduction, Method of Analysis, Results 
+and Discussions, Conclusion, plots making and other coding parts.
+
+Jessies Zhao contributes to Introduction, Theory, Results 
+and Discussions, Conclusion, plots making, code debugging and other coding parts.
